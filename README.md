@@ -13,7 +13,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wit0r&layout=compact&theme=dark&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wit0r&layout=compact&theme=dark"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wit0r&theme=dark"
 </div>
 
 <br>
@@ -29,6 +29,3 @@
   
 
 ![android](https://user-images.githubusercontent.com/84216382/177016537-f661eaae-75c8-444b-bdca-d8e0a6f1ad79.gif)
-
-
-
