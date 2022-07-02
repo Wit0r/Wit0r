@@ -26,6 +26,9 @@
 - ⌨️ Figma
 
 <br>
+  
+
+![android](https://user-images.githubusercontent.com/84216382/177016537-f661eaae-75c8-444b-bdca-d8e0a6f1ad79.gif)
 
 
 
