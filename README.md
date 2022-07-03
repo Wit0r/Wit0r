@@ -12,7 +12,7 @@
 
 <div>
   <a href="#">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wit0r&theme=dark&include_all_commits=true&count_private=true&show_icons=true&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wit0r&theme=dark&include_all_commits=true&count_private=true&show_icons=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wit0r&theme=dark"
 </div>
 
