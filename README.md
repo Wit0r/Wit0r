@@ -8,10 +8,10 @@
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/hzipna7h1a725znli0bnhow7k?si=7a33be3e821a4b85)
 
-
 <br>
 
 <div>
+  <a href="#">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wit0r&theme=dark&include_all_commits=true&count_private=true&show_icons=true&layout=compact"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wit0r&theme=dark"
 </div>
@@ -27,5 +27,7 @@
 
 <br>
   
-
-![android](https://user-images.githubusercontent.com/84216382/177016537-f661eaae-75c8-444b-bdca-d8e0a6f1ad79.gif)
+<div>
+  <a href="#">
+  <img src="https://user-images.githubusercontent.com/84216382/177016537-f661eaae-75c8-444b-bdca-d8e0a6f1ad79.gif"> 
+</div>
