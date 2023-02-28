@@ -1,6 +1,6 @@
 ## Hi! i'm Witor Augusto 👋
 
-/*
+<! 
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
@@ -31,4 +31,4 @@
   <a href="#">
   <img src="https://user-images.githubusercontent.com/84216382/177016537-f661eaae-75c8-444b-bdca-d8e0a6f1ad79.gif"> 
 </div>
-*/
+!>
